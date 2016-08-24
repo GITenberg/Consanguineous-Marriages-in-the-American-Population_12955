@@ -1,0 +1,25 @@
+_repo: Consanguineous-Marriages-in-the-American-Population_12955
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Arner, George B. Louis (George Byron Louis)
+    alias: Arner, George Byron Louis
+    birthdate: 1883
+    deathdate: 1952
+    gutenberg_agent_id: '4740'
+    url: http://www.gutenberg.org/2009/agents/4740
+description: ''
+gutenberg_issued: '2004-07-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12955'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Consanguinity -- United States'
+- !lcc 'HQ'
+- GITenberg
+title: Consanguineous Marriages in the American Population
+url: http://www.gutenberg.org/ebooks/12955
